@@ -3,3 +3,4 @@ ccxt
 pandas
 requests
 numpy
+matplotlib
